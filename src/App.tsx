@@ -40,6 +40,11 @@ function App() {
         'Confia no ETERNO de todo o teu coração e não te estribes no teu próprio entendimento. Provérbios 3:5',
         'Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Salmos 46:1',
         'Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias. Salmos 34:17',
+        'É honroso para o homem desviar-se de contendas, mas todo insensato se intromete em brigas. Provérbios 20:3',
+        'Quem tem muitos amigos pode chegar a ruína, mas existe amigo mais apegado que um irmão. Provérbios 18:24',
+        'O orgulho vem antes da destruição; o espíritp altivo, nates da queda. Provérbios 16:18',
+        'Os olhos do ETERNO estão em toda parte, observando atentamente os maus e os bons. Provérbios 15:3',
+        'O homem irritável provoca dissensão, mas quem é paciente acalma a discussão. Provérbios 15:18'
       ]
     }
   ]
